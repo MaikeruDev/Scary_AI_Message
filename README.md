@@ -23,8 +23,8 @@ This Python project is a Windows Event Log Analyzer that fetches and analyzes re
 3. The generated message will be based on the user's provided prompts and the system's recent activity.
 
 ## Important
-- The project requires an OpenAI API key to access the GPT-3.5 language model. Make sure to obtain the correct API key for seamless execution.
-- The script intentionally simulates a spooky experience by introducing a 1000-second (approximately 16 minutes) delay before writing the message and playing it with TTS. You can modify the duration as per your preference.
+- Do not forget to insert your API Key
+- The project requires an OpenAI API key to access the GPT-3.5 language model. Make sure to obtain the correct API key for seamless execution. 
 - Please use the spooky features of the script responsibly and only for appropriate and non-harmful purposes.
 
 *For more details and code snippets, please refer to the provided Python script. Happy spooky coding! 🎃👻*
